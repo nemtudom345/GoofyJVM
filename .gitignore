@@ -34,3 +34,4 @@ goofy_jdk_tmp.zip
 goofyjvm
 
 !app/src
+!gradle/wrapper
